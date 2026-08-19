@@ -1,4 +1,5 @@
-# NAND2-tetris-project-1
+# NAND2-tetris-project-1 Tanmay suman 2501730223 
+
 This repository contains the solutions and screenshots for Nand2Tetris Project 1: Boolean Logic.
 
 Implemented Gates
