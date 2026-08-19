@@ -1,4 +1,4 @@
-# NAND2-tetris-project-1 Tanmay suman 2501730223 
+# NAND2-tetris-project-1 Tanmay suman 2501730223 Btech CSE (AI/ML) Sec - E 
 
 This repository contains the solutions and screenshots for Nand2Tetris Project 1: Boolean Logic.
 
